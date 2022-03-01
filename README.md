@@ -2,7 +2,7 @@
 
 
 - 🔭 Estou no segundo período de Ciências da Computação na Universidade Federal de Sergipe
-- 🌱 Estou aprendendo backend com NodeJS
+- 🌱 Desenvolvedor Angular Pleno
 - 📫 Contate-me: myckwilliam@gmail.com ou pelo Whatsapp (79) 9 9910-3081
 - 😄 Pronomes: ele/dele
 
