@@ -1,4 +1,4 @@
-### Olá, eu sou o Myck William! 👋
+### Olá, eu sou o Myck Santos! 👋
 
 
 - 🔭 Estou no segundo período de Ciências da Computação na Universidade Federal de Sergipe
