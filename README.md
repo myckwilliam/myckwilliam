@@ -1,8 +1,7 @@
 ### Olá, eu sou o Myck Santos! 👋
 
-
-- 🔭 Estudante de Ciências da Computação na Universidade Federal de Sergipe
 - 🌱 Desenvolvedor Angular Pleno
+- 🔭 Estudante de Ciências da Computação na Universidade Federal de Sergipe
 - 📫 Contate-me: myckwilliam@gmail.com ou pelo Whatsapp (79) 9 9910-3081
 - 😄 Pronomes: ele/dele
 
